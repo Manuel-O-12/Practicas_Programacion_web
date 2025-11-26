@@ -40,3 +40,22 @@ li a {
     text-decoration: none;
 
 }
+
+.pasar{
+    text-decoration: none;  
+    display: inline-block;
+    color: #000;
+    background-color: #ffffff;
+    padding: 10px 15px;
+    margin: 10px 5px;
+    border-radius: 10px;
+    transition: all 0.7s ease;
+    font-weight: 600;
+}
+
+.pasar:hover{
+    
+    color: #ffffff;
+    background-color: #007b7b;
+    transform: translateX(7px);
+}
