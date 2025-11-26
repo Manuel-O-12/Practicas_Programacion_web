@@ -75,3 +75,11 @@ body {
     height: auto;
     background-image: linear-gradient(to bottom, rgb(170, 170, 255),rgb(250, 116, 116));
 }
+
+h1{
+    text-shadow: 3px 2px  5px rgb(110, 253, 58);
+}
+
+.p5 {
+    text-shadow: 6px 5px 8px rgb(255, 255, 255);
+}
