@@ -21,3 +21,22 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 12px;
 }
+
+ul {
+    display: flex;
+    /*align-items: center;*/
+    justify-content: space-around;
+    background-color: blueviolet;
+
+}
+
+li {
+    list-style-type: none;
+
+}
+
+li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
