@@ -1,1 +1,1 @@
-# Precticas_Programacion_web
+# Practicas_Programacion_web
