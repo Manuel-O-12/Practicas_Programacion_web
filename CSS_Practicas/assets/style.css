@@ -70,3 +70,8 @@ li a {
 img {
     width: 200px;
 }
+
+body {
+    height: auto;
+    background-image: linear-gradient(to bottom, rgb(170, 170, 255),rgb(250, 116, 116));
+}
