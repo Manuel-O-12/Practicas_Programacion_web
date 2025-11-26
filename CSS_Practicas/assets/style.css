@@ -1,0 +1,23 @@
+.p1 {
+    background-color: blue;
+}
+
+.p2 {
+    background-color: green;
+}
+
+.p3 {
+    background-color: red;
+}
+
+.titulo2 {
+    color: rgb(6, 125, 131);
+    font-family: 'Times New Roman', Times, Bold;
+    font-size: 35px;
+}
+
+.p4 {
+    color: rgb(175, 101, 4);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
