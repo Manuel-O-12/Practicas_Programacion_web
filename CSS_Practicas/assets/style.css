@@ -59,3 +59,14 @@ li a {
     background-color: #007b7b;
     transform: translateX(7px);
 }
+
+
+.galeria {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+img {
+    width: 200px;
+}
